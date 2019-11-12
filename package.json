@@ -1,5 +1,5 @@
 {
-  "name": "json-stream-stringify",
+  "name": "@crypto.com/json-stream-stringify",
   "description": "JSON.Stringify as a readable stream",
   "version": "2.0.1",
   "license": "MIT",
@@ -44,5 +44,6 @@
     "nyc": "12.0.2",
     "rollup": "0.60.4",
     "rollup-plugin-babel": "^4.0.0-beta.5"
-  }
+  },
+  "homepage": "https://github.com/Faleij/json-stream-stringify#readme"
 }
